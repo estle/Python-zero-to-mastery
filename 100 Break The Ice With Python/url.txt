@@ -1,0 +1,6 @@
+I recommend you actually skip over these exercises and come back to them once you have finished the course. However, I have kept them in this section for relevancy.
+
+There are 100 Python coding exercises in here with solutions in python 2 and python 3. The page is also broken down into Days so you can see a nice schedule of how long it takes to complete them. Keep in mind that this is optional and something for you to do at the end of the course to get extra exercises :)
+
+Click Here For the 100 Python Exercises
+https://github.com/darkprinx/break-the-ice-with-python
